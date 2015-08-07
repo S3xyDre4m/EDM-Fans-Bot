@@ -59,7 +59,7 @@
         botName: "EDM Fans Bot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
+        scriptLink: "https://rawgit.com/S3xyDre4m/EDM-Fans-Bot/master/extension.js",
         startupCap: 20, // 1-200
         startupVolume: 100, // 0-100
         startupEmoji: true, // true or false
