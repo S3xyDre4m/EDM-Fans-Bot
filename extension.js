@@ -70,7 +70,7 @@
         maximumAfk: 90,
         afkRemoval: true,
         maximumDc: 90,
-        bouncerPlus: true,
+        bouncerPlus: false,
         blacklistEnabled: true,
         lockdownEnabled: false,
         lockGuard: false,
