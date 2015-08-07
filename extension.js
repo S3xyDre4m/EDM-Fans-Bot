@@ -59,7 +59,7 @@
         botName: "EDM Fans Bot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        scriptLink: "https://rawgit.com/S3xyDre4m/EDM-Fans-Bot/master/.gitignore",
+        scriptLink: "https://rawgit.com/S3xyDre4m/EDM-Fans-Bot/master/extension.js",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
@@ -121,6 +121,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    $.getScript("https://rawgit.com/S3xyDre4m/EDM-Fans-Bot/master/.gitignore", extend);
+    $.getScript("https://rawgit.com/S3xyDre4m/EDM-Fans-Bot/master/extension.js", extend);
 
 }).call(this);
