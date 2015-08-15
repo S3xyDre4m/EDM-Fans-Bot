@@ -236,7 +236,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: null,
+        version: "",
         status: false,
         name: "EDM Fans BoT",
         loggedInID: null,
