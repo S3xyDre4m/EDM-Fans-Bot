@@ -305,7 +305,7 @@
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
-            commandLiteral: ".",
+            commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/NSFWlist.json",
                 OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/OPlist.json",
