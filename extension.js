@@ -266,7 +266,7 @@
             bouncerPlus: true,
             blacklistEnabled: true,
             lockdownEnabled: false,
-            lockGuard: false,
+            lockGuard: true,
             maximumLocktime: 10,
             cycleGuard: true,
             maximumCycletime: 10,
@@ -277,7 +277,7 @@
             maximumSongLength: 7,
             autodisable: true,
             commandCooldown: 30,
-            usercommandsEnabled: true,
+            usercommandsEnabled:true,
             skipPosition: 3,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
